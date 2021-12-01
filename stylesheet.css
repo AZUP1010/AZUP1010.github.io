@@ -75,6 +75,11 @@ main {
      color: white;
 }
 
+.ipicture {
+    height: 100px;
+    width:120px;
+}
+
 /*.picture {
     height: 80px;
     width: 120px;
